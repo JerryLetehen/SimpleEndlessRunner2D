@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 506e84bff1a440eea6d7c86693c498e1, type: 3}
+  m_Name: EnvironmentConfig
+  m_EditorClassIdentifier: 
+  <SpawnDelay>k__BackingField: 3
+  <Speed>k__BackingField: 2
+  <Prefabs>k__BackingField:
+  - {fileID: 6398657162727224924, guid: 88d5b1f323769438fa9e30a59043c290, type: 3}
+  - {fileID: 2334797816487711466, guid: d61ea0e1c899c4707b02381d709aa6d4, type: 3}
+  - {fileID: 4777568603973663237, guid: d0cb4b1d976814f37b163fd7c6d05b69, type: 3}
+  - {fileID: -1212815962933212213, guid: 0a636f5c93e5140a3b06018c8a06f910, type: 3}
